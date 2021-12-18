@@ -2,7 +2,7 @@
 
 > Welcome to the WindowsOS Development Setup & Tools. An ongoing curated list of Microsoft Windows best applications, libraries, learning tutorials, software and tools for Windows.
 
-![windowsOS](https://github.com/veilair/windowsOS-development/blob/main/windowsos-development.png)
+![windowsOS](https://github.com/exajobs/windowsOS-tools-collection/blob/main/img/windows-1.png)
 
 ## Contents
 
@@ -442,6 +442,6 @@ License
 
 [![CC0](http://i.creativecommons.org/p/zero/1.0/88x31.png)](http://creativecommons.org/publicdomain/zero/1.0/)
 
-To the extent possible under law, [Veilair](https://github.com/veilair/) has waived all copyright and related or neighboring rights to this work.
+To the extent possible under law, [Exajobs](https://github.com/exajobs/) has waived all copyright and related or neighboring rights to this work.
 
 [Back to top](#software-development)

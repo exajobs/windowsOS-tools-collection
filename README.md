@@ -1,6 +1,6 @@
-# Windows OS Development
+# WindowsOS Development setup & Tools
 
-> Welcome to the Windows OS Development. An ongoing curated list of Microsoft Windows best applications, libraries, learning tutorials, software and tools for Windows.
+> Welcome to the WindowsOS Development Setup & Tools. An ongoing curated list of Microsoft Windows best applications, libraries, learning tutorials, software and tools for Windows.
 
 ![windowsOS](https://github.com/veilair/windowsOS-development/blob/main/windowsos-development.png)
 

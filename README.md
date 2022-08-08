@@ -362,6 +362,7 @@
 ### Video
 
 - [DaVinci Resolve](https://www.blackmagicdesign.com/products/davinciresolve/) - Professional video creation software for editing, visual effects, color correction, and audio post production. ![Freeware][freeware icon]
+- [FreeTube](https://freetubeapp.io/) - Open source desktop YouTube player built with privacy in mind. Use YouTube without advertisements and prevent Google from tracking you with their cookies and JavaScript
 - [HandBrake](http://handbrake.fr/) - High performance video encoding and conversion tools with a nice GUI. [![Open-Source Software][oss icon]](https://github.com/HandBrake/HandBrake)
 - [K-Lite Codecs](http://www.codecguide.com/download_kl.htm) - Collection of DirectShow filters, VFW/ACM codecs, and tools.
 - [mpv](http://mpv.io/) - Media player. [![Open-Source Software][oss icon]](https://github.com/mpv-player/mpv)

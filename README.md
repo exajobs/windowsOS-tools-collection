@@ -369,6 +369,7 @@
 - [Olive Video Editor](https://www.olivevideoeditor.org/) - Open source cross-platform non-linear video editor. [![Open-Source Software][oss icon]](https://github.com/olive-editor/olive) ![Freeware][freeware icon]
 - [Open Broadcaster Software](https://obsproject.com/) - Free and open source software for video recording and live streaming. [![Open-Source Software][oss icon]](https://github.com/jp9000/OBS)
 - [PotPlayer](http://potplayer.daum.net/) - Multimedia player with a wide collection of codecs which also offers extensive configuration options for users.
+- [scrcpy](https://github.com/Genymobile/scrcpy) - Display and control your Android device via USB.
 - [ScreenToGif](http://www.screentogif.com/) - ScreenToGif allows you to record a selected area of your screen and save it as a gif or video. [![Open-Source Software][oss icon]](https://github.com/NickeManarin/ScreenToGif/) ![Freeware][freeware icon]
 - [Shotcut](https://www.shotcut.org/download/) - Open source cross-platform video editor. [![Open-Source Software][oss icon]](https://github.com/mltframework/shotcut) ![Freeware][freeware icon]
 - [SMPlayer](https://sourceforge.net/projects/smplayer/) - Multimedia player that can save different preferences for any single video. [![Open-Source Software][oss icon]](https://sourceforge.net/p/smplayer/code/HEAD/tree/) ![Freeware][freeware icon]

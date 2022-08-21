@@ -52,6 +52,7 @@
 - [CDex](http://www.cdex.fr/) - CD Ripper (French site, English program). ![Freeware][freeware icon]
 - [Dopamine](http://www.digimezzo.com/software/dopamine/) - An audio player which tries to make organizing and listening to music as simple and pretty as possible. ![Freeware][freeware icon]
 - [Exact Audio Copy](http://www.exactaudiocopy.de/) - Transfer files from your CDs to your PC in almost every format.Comes with some pretty nifty features too.
+- [Figaro](https://github.com/symphonly/figaro) - Real-time voice-changer for voice-chat, etc.
 - [Foobar2000](http://www.foobar2000.org/) - Free audio player for Windows, supports a wide range of audio formats and has a lot of cool features. ![Freeware][freeware icon]
 - [K-Lite Codecs](http://www.codecguide.com/download_kl.htm) - Collection of DirectShow filters, VFW/ACM codecs, and tools. ![Freeware][freeware icon]
 - [Kodi](https://kodi.tv/) - Free and Open Source home theatre software. [![Open-Source Software][oss icon]](https://github.com/xbmc) ![Freeware][freeware icon]

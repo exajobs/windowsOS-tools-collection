@@ -267,6 +267,8 @@
 - [Inkdrop](https://www.inkdrop.info/) - The note-taking app for Markdown lovers.
 - [KatMouse](http://www.ehiti.de/katmouse/) - Utility that enables "universal scrolling" in Windows: scrolling does not need the window to be active/clicked first (i.e. how it works in macOS and Linux) ![Freeware][freeware icon]
 - [Keypirinha](http://keypirinha.com/) - A fast launcher for keyboard ninjas on Windows. You can think of Keypirinha as an alternative to _Launchy_ and a cousin of _Alfred_. ![Freeware][freeware icon]
+- [LatchLayout](https://github.com/stanczykwyatt/latchlayout) - Opens apps, browser profiles, and URLs in chosen display layouts using a hold shortcut (Windows 11 preview). [![Open-Source Software][oss icon]](https://github.com/stanczykwyatt/latchlayout) ![Freeware][freeware icon]
+
 - [Launchy](http://www.launchy.net/) - The Open Source Keystroke Launcher. [![Open-Source Software][oss icon]](https://github.com/OpenNingia/Launchy) ![Freeware][freeware icon]
 - [Listary](http://www.listary.com/) - Keep files at your fingertips. An unique search utility.
 - [Luna](https://github.com/adrianmteo/Luna) - Automatic dark mode for Windows 10.
